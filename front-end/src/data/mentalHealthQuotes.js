@@ -1,0 +1,23 @@
+// Original messages written for this app and kept here for easy editing; they have not been reviewed by a clinician yet.
+export default [
+  "Looking after your mind is just as important as looking after your body.",
+  "Asking for help is not a weakness; it is one of the wisest things a person can do.",
+  "Small steps every day add up to a healthier mind.",
+  "You don't have to have everything figured out to take a good next step.",
+  "Rest is not laziness; a tired mind needs care too.",
+  "Talking to someone you trust can lighten a heavy day.",
+  "Good days and hard days both belong to the journey; be kind to yourself on both.",
+  "Time with people you care about does the mind a lot of good.",
+  "A walk, a laugh, and a good conversation are ordinary things that can do the mind a lot of good.",
+  "Your feelings are valid, and you deserve support when things feel heavy.",
+  "Caring for mental health is not a luxury; it is part of living well.",
+  "No one has to carry everything alone.",
+  "Be patient with yourself, because every mind does its best with what it has.",
+  "Checking in on your mind is a way of caring for your future self.",
+  "Sleep, sunlight, movement, and company all help a mind stay well.",
+  "It is always okay to ask for a little more time or a little more help.",
+  "Every person's mind deserves care, patience and respect.",
+  "Talking openly about mental health helps others feel safe to do the same.",
+  "Growth and healing rarely happen in a straight line.",
+  "You are more than any score, and your wellbeing matters more than any result.",
+];

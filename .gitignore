@@ -1,0 +1,16 @@
+# Python
+back-end/venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+
+# Node
+node_modules/
+front-end/dist/
+
+# Secrets and editor files
+.env
+.env.*
+.vscode/
+.DS_Store
